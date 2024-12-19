@@ -1,0 +1,6 @@
+# .cursorignore
+node_modules/
+build/
+dist/
+*.log
+.react-router/
