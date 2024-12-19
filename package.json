@@ -1,0 +1,17 @@
+{
+  "name": "vertex",
+  "version": "0.0.1",
+  "public": true,
+  "type": "module",
+  "bin": {
+    "vertex": "./cli/vertex.js"
+  },
+  "scripts": {
+    "build": "echo 'No build needed for CLI'",
+    "dev": "echo 'No dev needed for CLI'",
+    "start": "echo 'No start needed for CLI'"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
