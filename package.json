@@ -1,5 +1,5 @@
 {
-  "name": "vertex",
+  "name": "@vertex-js/vertex",
   "version": "0.0.1",
   "public": true,
   "type": "module",
